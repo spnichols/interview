@@ -11,6 +11,7 @@ public class Testing {
 				System.out.print(testingArray[x][y] + " ");
 			}
 			System.out.println("");
+			System.out.println("hahaha");
 		}
 	}
 	
